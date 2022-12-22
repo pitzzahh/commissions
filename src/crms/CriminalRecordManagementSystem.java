@@ -17,7 +17,7 @@ public class CriminalRecordManagementSystem {
 
     private static final File file = new File("records.txt");
 
-    public static void main(String[] args) throws IOException, InterruptedException {
+    public static void main(String[] args) throws InterruptedException {
 
         do {
             System.out.println("Welcome to the Criminal Record Management System");
