@@ -1,3 +1,5 @@
+package pointOfSale;
+
 import java.util.regex.Pattern;
 import java.util.ArrayList;
 import java.util.Objects;
